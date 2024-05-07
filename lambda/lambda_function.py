@@ -10,7 +10,7 @@ import json
 from openai import OpenAI
 
 # Set your OpenAI API key
-api_key = "sk-proj-iVHwitfZYPJqhWF9wrpjT3BlbkFJR4Y7InFndMvx7tuEybIL"
+api_key =
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
